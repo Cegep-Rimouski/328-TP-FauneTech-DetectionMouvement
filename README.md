@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> L'intégralité de ce projet a été généré par Intelligence Artificielle.
+
 # DetectionMouvement
 
 Projet de détection de mouvement par flux vidéo webcam en C++ avec OpenCV, prêt à l'emploi pour les étudiants sous **CLion** (compatible Windows 11 et Ubuntu, sans droits administrateur).
