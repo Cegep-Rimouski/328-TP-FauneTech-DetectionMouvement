@@ -17,15 +17,8 @@ cmake_install.cmake
 *.a
 *.lib
 
-# Captures d'images temporaires
-captures/*.jpg
-captures/*.jpeg
-captures/*.png
-captures/*.bmp
-!captures/.gitkeep
-
-# Modèles
-!models/.gitkeep
+# Captures temporaires locales
+captures/
 
 # Fichiers de configuration IDE
 .idea/

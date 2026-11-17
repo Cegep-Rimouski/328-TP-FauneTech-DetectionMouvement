@@ -46,9 +46,5 @@ Lorsque la fenêtre de flux vidéo est active :
 .
 ├── CMakeLists.txt      # Configuration CMake avec FetchContent (OpenCV minimal)
 ├── main.cpp            # Algorithme de détection de mouvement & enregistrement
-├── captures/           # Dossier de sauvegarde automatique des photos détectées (maximum 20 conservées)
-│   └── .gitkeep
-├── models/             # Dossier réservé pour les futurs fichiers de modèle
-│   └── .gitkeep
 └── README.md           # Documentation d'accueil et d'exécution
 ```
